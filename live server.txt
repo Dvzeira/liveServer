@@ -1,0 +1,1 @@
+A extensão live server do VS Code é interessante, pois é possível abrir o arquivo direto no navegador.
